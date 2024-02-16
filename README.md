@@ -1,161 +1,56 @@
-# **Node JS Rest-API**
+<!-- Github README -->
 
-<img src="https://i.postimg.cc/KjqrWcc2/zekais-api.png" width="500">
 
-Simple Rest-API With Login System, Built using MongoDB, Express.js, and Node.js
+<p align="center"><img src="https://img.shields.io/badge/I Am %20INDONESIAN- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-Demo App : https://zekais-restapi.herokuapp.com/
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-Rest-Api : https://zekais-api.herokuapp.com/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://github.com/YUDAMODS)
 
-# Installation
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/YUDAMODS"><img width=550 src="https://github-profile-trophy.vercel.app/?username=YUDAMODS&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [VS Code](https://code.visualstudio.com/download) or Any Text Editor
+</p>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/YUDAMODS/count.svg" alt="Visitors">
+</p>
 
-## Cloning this repo
-```cmd
-> git clone https://github.com/fawwaz37/nodejs-restapi.git
-> cd nodejs-restapi
-```
-Use `code .` to open file in VS Code
-```cmd
-> code .
-```
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-## Editing the file
-Edit the required value in folder `lib` file `settings.js`.
+<h3 align="center">A Passionate Frontend Developer From YudaMods</h3>
 
-```js
-module.exports = {
-    port: '5000',
-    limitCount: 0,
-    recaptcha_key_1: '',
-    recaptcha_key_2: '',
-    // ex Mongodb Atlas : mongodb+srv:/xxx
-    dbURI: ''
-};
-```
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-`port`: PORT localhost.
+- ➪ 𝙽𝙰𝙼𝙴 :- 𝚈𝚄𝙳𝙰
 
-`recaptcha_key_1`: reCaptcha Key.
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-`recaptcha_key_2`: reCaptcha Key.
+- ➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
 
-`dbURI`: Connection String MongoDb. 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-## How to Get recaptcha_key
+- ➪ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝚂𝚃𝚄𝙳𝚈
 
-Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&app_absent=0)) How to get Recaptcha Key
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-## How to Get Mongodb URI
-1. Sign In [Mongodb](https://www.mongodb.com/)
-2. Create a Database.
-<img src="https://i.postimg.cc/R0D16X3C/1.png" width="300">
+- ➪ 𝚁𝙴𝙻𝙰𝚃𝙸𝙾𝙽𝚂𝙷𝙸𝙿 :- 𝚂𝙸𝙽𝙶𝙻𝙴
 
-3. Create Free Cluster.
-4. Choose Cloud Provider & Region, Create Cluster.
-5. Select `Connect`.
-6. Add a Connection IP Address.
-<img src="https://i.postimg.cc/gk1H2MZY/5-1.png" width="500">
 
-7. Create a Database User
-<img src="https://i.postimg.cc/T1zCLGPc/5-2.png" width="500">
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-8. Connect Your Application
-9. Change `<password>` with Your Password Database User `step 7`
-<img src="https://i.postimg.cc/6pW4wgW2/db.png" width="500">
-10. Copy and Paste in `settings.js`
 
-Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&app_absent=0)) if You Have Problem with mongodb
+- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [𝚈𝚄𝙳𝙰𝙼𝙾𝙳𝚂](https://youtube.com/@YUDAMODS)
 
-## Installing the dependencies
-```cmd
-> npm install
-```
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-## Running App
-```cmd
-> npm start
-```
 
-Then Browse http://localhost:5000 . You will see the Homepage.
-
-<img src="https://i.postimg.cc/d1J2tZLF/landingpage.png" width="500">
-
-# Features
-
-|     API              |  EndPoint       |  Query           |
-| :--------------:     | :------------:  | :------------:   |
-| Youtube MP3          |  /ytmp3?url=    |  url & apikey    |
-| Youtube MP4          |  /ytmp4?url=    |  url & apikey    |
-| Youtube Play         |  /ytplay?query= |  query & apikey  |
-| Random Quotes        |  /quotes        |  apikey          |
-| Random Fakta         |  /fakta         |  apikey          |
-| Random Kata Bijak    |  /bijak         |  apikey          |
-| Random Kata Motivasi |  /motivasi      |  apikey          |
-| Random Ptl           |  /ptl           |  apikey          |
-| Cak Lontong          |  /caklontong    |  apikey          |
-
-If you want to unlock Premium Feature, please contact me ([WhatsApp](https://api.whatsapp.com/send/?phone=6287715579966&text&app_absent=0))
-
-|     Premium               |  Availability  |
-| :--------------:          | :------------: |
-| Premium User              |   ✔️           |
-| Expired Premium User      |   ✔️           |
-| Added Premium Apikey      |   ✔️           |
-| Delete Premium Apikey     |   ✔️           |
-| Limit Apikey              |   ✔️           |
-| Custom Limit Apikey       |   ✔️           |
-| Custom Apikey             |   ✔️           |
-| Reset Manual All Limit    |   ✔️           |
-| Reset One Limit Apikey    |   ✔️           |
-| Photooxy                  |   ✔️           |
-| Request (Total, Today)    |   ✔️           |
-| Visitor, Total User       |   ✔️           |
-| Pricing Section           |   ✔️           |
-
-# Deploy Heroku
-
-Go to [Heroku](https://heroku.com) and Login
-
-Create New App ( App Name For Example : abcd-api)
-
-<img src="https://i.postimg.cc/Z5T8Btw2/newapp.png" width="300">
-
-Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
-
-Open `CMD` and Login Heroku
-
-```cmd
-> heroku login
-```
-
-Initialize a git repository in a new or existing directory
-
-```cmd
-> cd nodejs-restapi
-> git init
-```
-
-Remote Your App, Use `heroku git:remote -a app-name`
-
-```cmd
-> heroku git:remote -a abcd-api
-```
-
-Commit your code to the repository and deploy it to Heroku using Git.
-
-```cmd
-> git add .
-> git commit -am "make it better"
-> git push heroku master
-```
-
-Log Success
-
-<img src="https://i.postimg.cc/j5bzy0NP/deploy.png" width="300">
-
+<h3><b><i> Contact me in Touch :</i></b></h3>
+<a href="https://github.com/YUDAMODS"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://youtube.com/@YUDAMODS"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" /></a>
